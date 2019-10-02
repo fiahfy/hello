@@ -1,5 +1,7 @@
 # @fiahfy/hello
 
+![badge](https://github.com/fiahfy/hello/workflows/Node.js%20Package/badge.svg)
+
 > Hello NPM.
 
 ## Installation
