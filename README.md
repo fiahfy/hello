@@ -1,4 +1,4 @@
-# @fiahfy/hello
+# hello
 
 ![badge](https://github.com/fiahfy/hello/workflows/Node.js%20Package/badge.svg)
 
@@ -6,14 +6,14 @@
 
 ## Installation
 
-```shell
+```bash
 npm install @fiahfy/hello
 ```
 
 ## Usage
 
 ```js
-import hello from '@fiahfy/hello'
+import { hello } from '@fiahfy/hello'
 
 hello('World') // Hello, World!
 ```

@@ -1,4 +1,4 @@
-import hello from '../src'
+import { hello } from '../src'
 
 console.log = jest.fn()
 
