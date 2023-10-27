@@ -30,6 +30,7 @@
   "homepage": "https://github.com/fiahfy/hello",
   "keywords": [],
   "license": "MIT",
+  "main": "./dist/index.js",
   "publishConfig": {
     "access": "public"
   },
