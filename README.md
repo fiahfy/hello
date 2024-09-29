@@ -1,6 +1,6 @@
 # hello
 
-![badge](https://github.com/fiahfy/hello/workflows/Node.js%20Package/badge.svg)
+[![Publish](https://github.com/fiahfy/hello/actions/workflows/publish.yml/badge.svg)](https://github.com/fiahfy/hello/actions/workflows/publish.yml)
 
 > Hello NPM.
 
